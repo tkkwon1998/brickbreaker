@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="53ab8c8d-6b95-4f3d-b01b-e20dbae10a39" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Ball.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Ball.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Brick.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Brick.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/ExtendPaddle.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/ExtendPaddle.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/ExtraPoints.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/ExtraPoints.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/GameManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/MoreBalls.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/MoreBalls.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Paddle.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Paddle.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Ball.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Ball.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Brick.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Brick.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/ExtendPaddle.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/ExtendPaddle.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/ExtraPoint.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/ExtraPoint.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MoreBalls.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MoreBalls.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Paddle.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Paddle.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Unbreakable.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Unbreakable.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level2.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level3.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level3.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level4.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level4.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Paddle.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/SaveLoad.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/GameManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/ExtraPoints.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/MoreBalls.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/MenuManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Ball.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Brick.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/ExtendPaddle.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Code/Menu&amp;DataManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Ball.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/SaveLoad.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/ExtendPaddle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/ExtraPoints.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/MoreBalls.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Paddle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Brick.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/MenuManager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lAii3XbuMfSmMZ3k48TBWNK0IV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53ab8c8d-6b95-4f3d-b01b-e20dbae10a39" name="Default Changelist" comment="" />
+      <created>1607046421996</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607046421996</updated>
+      <workItem from="1607046425866" duration="42310000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="661" y="267" width="662" height="490" key="find.popup" timestamp="1607122829106">
+      <screen x="0" y="23" width="1680" height="977" />
+    </state>
+    <state x="661" y="267" width="662" height="490" key="find.popup/0.23.1680.977@0.23.1680.977" timestamp="1607122829106" />
+  </component>
+</project>

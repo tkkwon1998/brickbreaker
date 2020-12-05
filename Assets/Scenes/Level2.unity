@@ -915,12 +915,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b18e25ec31248412cb6ac8eefd1b2fd5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Canvas: {fileID: 586004980}
   initialBall: {fileID: 0}
   _b: {fileID: -7332049404386449993, guid: c25425575e6c14958948ba9ef92b87ea, type: 3}
   paddle: {fileID: 1453882737}
+  loaded: 0
   score: {fileID: 804367173}
   bricks: []
   balls: []
+  paused: 0
+  Menu: {fileID: 0}
 --- !u!4 &947405410
 Transform:
   m_ObjectHideFlags: 0
